@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/max-diff/bin/Debug/net7.0/max-diff
+/home/ericluizlucas/Documents/study/dotnet/max-diff/bin/Debug/net7.0/max-diff.deps.json
+/home/ericluizlucas/Documents/study/dotnet/max-diff/bin/Debug/net7.0/max-diff.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/max-diff/bin/Debug/net7.0/max-diff.dll
+/home/ericluizlucas/Documents/study/dotnet/max-diff/bin/Debug/net7.0/max-diff.pdb
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.dll
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/refint/max-diff.dll
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.pdb
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/max-diff.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/max-diff/obj/Debug/net7.0/ref/max-diff.dll

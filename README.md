@@ -1,0 +1,1 @@
+Dado uma array de inteiros, sem reordenar, determine a diferença máxima entre qualquer elemento e qualquer outro elemento menor anterior. Caso não houver um elemento anterior menor, retorne -1.
